@@ -1,4 +1,4 @@
-# Udevs microservice helm chart
+# microservice helm chart
 
 ## Updating chart
 
